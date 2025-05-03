@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+  <title>Mačke</title>
+</head>
+<body>
+  <h1>Mačke</h1>
+  <ul>
+    <li>Mačke spijo povprečno 12 do 16 ur na dan.</li>
+    <li>Lahko slišijo višje frekvence kot psi ali ljudje.</li>
+    <li>Imajo zelo dobro ravnotežje in pogosto pristanejo na nogah, ko padejo.</li>
+    <li>Vsaka mačka ima unikaten vzorec prstnih blazinic.</li>
+    <li>Mačke komunicirajo z ljudmi z mijavkanjem, vendar redko mijavkajo med seboj.</li>
+  </ul>
+</body>
+</html>
